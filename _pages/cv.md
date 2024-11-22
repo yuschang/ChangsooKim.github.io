@@ -21,7 +21,7 @@ Work Experiences
   Focused Ultrasound Foundation, Charlottesville, VA, US
 * Researcher (Sep 2017 ~ Feb 2019) \
   Daegu-Gyeongbuk Medical Innovation Foundation, Daegu, South Korea 
-* Post-Doctor (Feb 2019 ~ Feb 2021) \ 
+* Post-Doctor (Feb 2019 ~ Feb 2021) \
   DGIST-ETH Microrobot Research Center, DGIST, Daegu, South Korea
 * Post-Doctor (Mar 2021 ~ Feb 2022) \
   Department of Ocean System Engineering enter, Jeju National University, Jeju, South Korea 
