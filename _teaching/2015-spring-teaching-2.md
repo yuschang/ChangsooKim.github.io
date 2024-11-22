@@ -1,9 +1,9 @@
 ---
-title: "Lectures: How to talk to Dolphins"
+title: "Lecture: How to talk to Dolphins"
 collection: teaching
-type: "Liberal Arts"
+type: "Liberal Arts Lecture"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Jeju National University, Ocean System Engineering"
+venue: "Jeju National University"
 date: 2025-03-01
 location: "Jeju-si, South Korea"
 ---
