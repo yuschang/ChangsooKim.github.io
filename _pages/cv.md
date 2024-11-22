@@ -25,7 +25,7 @@ Work Experiences
   DGIST-ETH Microrobot Research Center, DGIST, Daegu, South Korea
 * Post-Doctor (Mar 2021 ~ Feb 2022) \
   Department of Ocean System Engineering enter, Jeju National University, Jeju, South Korea 
-* Post-Doctor (Mar 2022 ~ )
+* Post-Doctor (Mar 2022 ~ ) \
   Research Institute for Basic Science, Jeju National University, Jeju, South Korea
   
 Language
