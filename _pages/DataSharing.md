@@ -15,5 +15,5 @@ Data #1
 ======
 * Data Description:
 * Terms of data sharing:
-* find data from this link :
+* Data link :
 
