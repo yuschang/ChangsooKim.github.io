@@ -1,1 +1,1 @@
-The github webpage forked from other source.
+The github webpage forked from <academicpages.github.io>
