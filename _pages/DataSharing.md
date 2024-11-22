@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data sharing for publich domain"
+title: "Data Sharing for public usage"
 permalink: /DataSharing/
 author_profile: true
 redirect_from:
