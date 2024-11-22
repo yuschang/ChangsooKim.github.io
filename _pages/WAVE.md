@@ -13,11 +13,13 @@ redirect_from:
 
 Research topics related to Acoustics
 ======
-* Deep learning-based dolphin vocalization detection and classification 
+* Deep learning-based dolphin vocalization detection and classification
+* Underwater acoustic monitoring in coastal water
 
 Research topics related to Vision
 ======
 * Deep learning-based wild dolphin identification
+
 
   
 
