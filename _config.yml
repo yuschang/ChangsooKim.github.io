@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr.Changsoo Kim's Homepage"
+title                    : "Changsoo's Homepage"
 title_separator          : "-"
 name                     : &name "Changsoo Kim"
 description              : &description "Scientist interested in Applied Acoustics "
@@ -22,7 +22,7 @@ repository               : https://yuschang.github.io/ChangsooKim.github.io
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Changsoo Kim"
+  name             : "Dr. Changsoo Kim"
   pronouns         : # example: "she/her"  
   bio              : "Post-Doc Researcher"
   location         : "South Korea"
