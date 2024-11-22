@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 \
-\
 
 Research topics related to Acoustics
 ======
