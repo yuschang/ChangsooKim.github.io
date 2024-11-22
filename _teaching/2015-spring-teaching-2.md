@@ -1,5 +1,5 @@
 ---
-title: "Lectures"
+title: "Lectures: How to talk to Dolphins"
 collection: teaching
 type: "Liberal Arts"
 permalink: /teaching/2015-spring-teaching-1
@@ -10,6 +10,5 @@ location: "Jeju-si, South Korea"
 
 In this lecture, we discover the knowledge of bottlenose dolphins based on the scientific findings.
 
-How to talk to Dolphins
-======
+
 
