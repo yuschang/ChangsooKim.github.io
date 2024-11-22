@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello there, I'm Chansoo"
+title: "Wellcome to my academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a Post-Doc Researcher at Jeju National University in South Korea.
+I'm a Researcher at Jeju National University in South Korea.
 
 My research interests are:<br /> 
 -> Underwater acoustic monitoring of coastal water <br />
