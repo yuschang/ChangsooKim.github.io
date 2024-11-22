@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+\
+\
+
 Research topics related to Acoustics
 ======
-* Deep learning-based dolphin vocalization detection and classification \
+* Deep learning-based dolphin vocalization detection and classification 
 
 Research topics related to Vision
 ======
-* Deep learning-based wild dolphin identifation\
+* Deep learning-based wild dolphin identification
 
   
 
