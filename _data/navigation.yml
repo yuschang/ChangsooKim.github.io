@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "WAVE"
+  - title: "W.A.V.E."
     url: /WAVE/
     
   #- title: "Publications"
