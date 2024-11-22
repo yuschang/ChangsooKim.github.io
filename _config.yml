@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Changsoo's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Changsoo Kim"
 description              : &description "Scientist interested in Applied Acoustics "
