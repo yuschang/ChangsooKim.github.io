@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Therapeutic Ultrasound, Jeju National University, 2017
+* Ph.D. in Therapeutic Ultrasound, Jeju National University, 2017
 * M.S. in Medical Ultrasound Imaging, Jeju National University, 2014
 * B.S. in Mechanical Eng., Yanbian University of Science and Technology, 2011
 
