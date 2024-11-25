@@ -17,16 +17,16 @@ Education
 
 Work Experiences
 ======
-* Assistant Researcher (Mar 2016 ~ Feb 2017)
-  Focused Ultrasound Foundation, Charlottesville, VA, US
-* Researcher (Sep 2017 ~ Feb 2019)
-  Daegu-Gyeongbuk Medical Innovation Foundation, Daegu, South Korea 
-* Post-Doctor (Feb 2019 ~ Feb 2021)
-  DGIST-ETH Microrobot Research Center, DGIST, Daegu, South Korea
-* Post-Doctor (Mar 2021 ~ Feb 2022)
-  Department of Ocean System Engineering enter, Jeju National University, Jeju, South Korea 
 * Post-Doctor (Mar 2022 ~ )
   Research Institute for Basic Science, Jeju National University, Jeju, South Korea
+* Post-Doctor (Mar 2021 ~ Feb 2022)
+  Department of Ocean System Engineering enter, Jeju National University, Jeju, South Korea
+* Post-Doctor (Feb 2019 ~ Feb 2021)
+  DGIST-ETH Microrobot Research Center, DGIST, Daegu, South Korea
+* Researcher (Sep 2017 ~ Feb 2019)
+  Daegu-Gyeongbuk Medical Innovation Foundation, Daegu, South Korea 
+* Assistant Researcher (Mar 2016 ~ Feb 2017)
+  Focused Ultrasound Foundation, Charlottesville, VA, US
   
 Language
 ======
